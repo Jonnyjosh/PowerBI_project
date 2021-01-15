@@ -5,4 +5,4 @@ A dashboard on wine analytics.
 The dashboard summarizes wine ranking in terms of price, winery,  and country with most points. 
 
 Screenshot:
-![power_bi_viz](wine_project.png)
+![power_bi_viz](wine_project.PNG)
